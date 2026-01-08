@@ -24,8 +24,6 @@ I develop (or get new ideas to develop n_n) every day. Be sure to check the
 things I'm working on:
 
 - [dev-challenges](https://github.com/Hdoc1509/dev-challenges)
-<!-- - [hrc](https://hdoc1509.github.io/hrc) -->
-<!-- - [five-hands-poker](https://hdoc1509.github.io/five-hands-poker) -->
 - [nvim-config](https://github.com/Hdoc1509/nvim-config)
 - [tree-sitter-hygen-template](https://github.com/Hdoc1509/tree-sitter-hygen-template)
 
