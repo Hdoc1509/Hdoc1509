@@ -3,7 +3,7 @@
 I'm Héctor, also known as <i>Hdoc</i>, a Web Front-end Developer :wrench: from
 Perú.
 
-I like to create detailed and minimalistic websites making its designs to come
+I like to create detailed and minimalist websites making the designs to come
 alive, always improving every time I learn something new. :star2:
 
 My tech stack:
@@ -16,7 +16,8 @@ My tech stack:
 ![SASS][sass]
 
 I like to use the most agnostic features as possible, the most aligned
-with the standards and the most supported by the browsers. :white_check_mark:
+with the standards and the most supported by the browsers or I just let the
+bundler to handle it for me. :white_check_mark:
 
 My favorite project is [guess-the-word][guess-the-word], a simple game (or not?)
 where I implemented a lot of things that I learned along the way. :pencil2:
