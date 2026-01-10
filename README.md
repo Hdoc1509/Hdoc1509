@@ -39,8 +39,9 @@ Other things about me:
   and implement. I'm perfectionist, that's it. :muscle:
 - I absolutely enjoy using Neovim (the CLI, of course), it's the most
   customizable and powerful editor that I've ever used. :tada:
-- I'm a guitarist, I really like music, play the songs that I like and
-  composing. I only created a few songs, my treasures. :sparkles:
+- I'm a guitarist. I really like music, play the songs that I like and
+  bring to life the sounds I imagine in my mind. I have created a few songs,
+  my treasures. :sparkles:
 
 [guess-the-word]: https://hdoc1509.github.io/dev-challenges/guess-the-word
 [react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
