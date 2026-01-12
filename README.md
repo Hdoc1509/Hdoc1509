@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-I'm Héctor, also known as <i>Hdoc</i>, a Web Front-end Developer :wrench: from
-Perú.
+I'm Héctor, a Web Front-end Developer :wrench: from Perú.
 
 I like to create detailed and minimalist websites making the designs to come
 alive, always improving every time I learn something new. :star2:
