@@ -27,6 +27,7 @@ things I'm working on:
 
 - [dev-challenges](https://github.com/Hdoc1509/dev-challenges)
 - [nvim-config](https://github.com/Hdoc1509/nvim-config)
+- [hrc](https://hdoc1509.github.io/hrc)
 - [tree-sitter-hygen-template](https://github.com/Hdoc1509/tree-sitter-hygen-template)
 
 Have a good day! n_n/
