@@ -35,6 +35,7 @@ Have a good day! n_n/
 
 Other things about me:
 
+- My favorite number is 15.
 - My mind is almost always thinking about new things that I can learn, improve
   and implement. I'm perfectionist, that's it. :muscle:
 - I absolutely enjoy using Neovim (the CLI, of course), it's the most
@@ -42,6 +43,7 @@ Other things about me:
 - I'm a guitarist. I really like music, play the songs that I like and
   bring to life the sounds I imagine in my mind. I have created a few songs,
   my treasures. :sparkles:
+- My favorite colors are black and purple.
 
 [guess-the-word]: https://hdoc1509.github.io/dev-challenges/guess-the-word
 [react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
