@@ -21,8 +21,7 @@ bundler to handle it for me. :white_check_mark:
 My favorite project is [guess-the-word][guess-the-word], a simple game (or not?)
 where I implemented a lot of things that I learned along the way. :pencil2:
 
-I develop (or get new ideas to develop) every day. Be sure to check the
-things I'm working on:
+Things I'm working on:
 
 - [dev-challenges](https://github.com/Hdoc1509/dev-challenges)
 - [nvim-config](https://github.com/Hdoc1509/nvim-config)
